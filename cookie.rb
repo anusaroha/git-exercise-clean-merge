@@ -5,5 +5,5 @@ class Cookie
   def initialize(sugar, flour)
     @sugar, @flour = sugar, flour
   end
-// a comment
+# a comment
 end
